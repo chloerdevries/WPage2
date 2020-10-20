@@ -1,13 +1,14 @@
-#grad {
-background-image:linear-gradient(#b5d7da, #eafbf4) height:50px width:100%;
-}
+h3{
+  #grad{
+  background-image:linear-gradient(#b5d7da, #eafbf4);
+}}
 body{
 background-color: aliceblue;
 }
 
 h1{
 text-shadow: 2px 2px 5px black;
-color: #fbfcf4;
+color: #;
 margin-left:
 }
 
