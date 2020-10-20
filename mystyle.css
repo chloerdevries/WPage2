@@ -1,4 +1,5 @@
 #grad {
+height:50px width:100%
   background-image:linear-gradient(#b5d7da, #eafbf4);
 }
 body{
